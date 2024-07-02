@@ -14,15 +14,15 @@
 <br />
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mirhussainmurtaza/">
+    <a href="https://www.linkedin.com/in/emferdous">
         <img height="75" src="https://raw.githubusercontent.com/ferdousdevloper/ferdousdevloper/main/Images/icons/linkedin.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.facebook.com/mirhussainmurtaza">
+    <a href="https://twitter.com/emferdous">
         <img height="75" src="https://raw.githubusercontent.com/ferdousdevloper/ferdousdevloper/main/Images/icons/twitter.png">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="blank" href="https://www.facebook.com/emferdous/">
+    <a  href="https://www.facebook.com/emferdous/">
         <img height="75" src="https://raw.githubusercontent.com/ferdousdevloper/ferdousdevloper/main/Images/icons/facebook.png">
     </a>
 </p>
